@@ -6,4 +6,4 @@ I wrote the code below to complete one of the data visualization projects for Un
 
 The idea behind the interactive visualization is provided in this [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf). The basic idea is that users can decide on the interval within which they want the mean value to fall, and the different bars will change colors to show the probability that the mean of that dataset falls within the interval.
 
-Admittedly, nothing too serious is going on here. But it was a chance to learn more about the Matplotlib library. And watching the colors shift as you move the interval bars up and down can be fun.
+Nothing too serious is going on here. But it was a chance to learn more about the Matplotlib library. And watching the colors shift as you move the interval bars up and down can be fun.
